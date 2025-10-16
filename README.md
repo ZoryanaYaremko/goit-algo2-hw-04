@@ -110,5 +110,13 @@ class Homework(Trie):
 Запропонована реалізація задовольняє вимоги ТЗ: коректність, обробка помилок, урахування регістру та ефективність на великих наборах даних. 
 `has_prefix` працює за O(1), а `count_words_with_suffix` — за O(|pattern|), що робить рішення придатним для масштабних задач пошуку.
 
+## Скріншоти
+
+<img width="609" height="431" alt="image" src="https://github.com/user-attachments/assets/5eee0cd7-022c-49ec-9427-e549dd5623d9" />
+<img width="841" height="648" alt="image" src="https://github.com/user-attachments/assets/4e4b7caf-cff3-4d10-bcd3-6eed0f67d526" />
+<img width="663" height="564" alt="image" src="https://github.com/user-attachments/assets/441d29fb-f039-491e-8cfd-5d5b8689ead1" />
+
+
+
 
 
